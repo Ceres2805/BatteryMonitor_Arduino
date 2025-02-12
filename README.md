@@ -15,6 +15,7 @@ This project is an Arduino-based battery monitor that displays the battery volta
 - 16x2 LCD
 - LED
 - Resistors (1k ohm, 10k ohm, 2x220 ohm)
+- Potentiometer (10k ohm)
 - Battery (4-5 V)
 
 ## Circuit Schematic
