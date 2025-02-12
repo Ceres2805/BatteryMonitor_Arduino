@@ -21,6 +21,7 @@ This project is an Arduino-based battery monitor that displays the battery volta
 ## Circuit Schematic
 
 The circuit schematic is available in the [Schematic_BatteryMonitor_Arduino](Schematic_BatteryMonitor_Arduino) directory:
+
 - [Schematic_BatteryMonitor_Arduino_2025-02-12.pdf](Schematic_BatteryMonitor_Arduino/Schematic_BatteryMonitor_Arduino_2025-02-12.pdf)
 - [Schematic_BatteryMonitor_Arduino.png](Schematic_BatteryMonitor_Arduino/Schematic_BatteryMonitor_Arduino.png)
 
@@ -29,6 +30,7 @@ The circuit schematic is available in the [Schematic_BatteryMonitor_Arduino](Sch
 ## PCB Design
 
 The PCB design files are available in the [PCB_BatteryMonitor_Arduino](PCB_BatteryMonitor_Arduino) directory:
+
 - [Gerber_PCB_BatteryMonitor_Arduino.zip](PCB_BatteryMonitor_Arduino/Gerber_PCB_BatteryMonitor_Arduino.zip)
 - [2D_PCB_BatteryMonitor_Arduino](PCB_BatteryMonitor_Arduino/2D_PCB_BatteryMonitor_Arduino)
 - [3D_PCB_BatteryMonitor_Arduino](PCB_BatteryMonitor_Arduino/3D_PCB_BatteryMonitor_Arduino)
@@ -38,6 +40,7 @@ The PCB design files are available in the [PCB_BatteryMonitor_Arduino](PCB_Batte
 ## Code
 
 The Arduino code is available in the [Code](Code) directory:
+
 - [Code.ino](Code/Code.ino)
 
 ## Credits
